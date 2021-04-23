@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "650541121777",
+    "firebase_url": "https://python-ml-vision-default-rtdb.firebaseio.com",
+    "project_id": "python-ml-vision",
+    "storage_bucket": "python-ml-vision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650541121777:android:4d61c5dd8deaa9bc77e950",
+        "android_client_info": {
+          "package_name": "com.example.final_furniture_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650541121777-qcp7en4evpckpcagjrajnbg5mh57h6lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNtbZlf6PFw6TeicbyVdQIhwAP6qtGA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650541121777-qcp7en4evpckpcagjrajnbg5mh57h6lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650541121777:android:9452b4a6c03eb0db77e950",
+        "android_client_info": {
+          "package_name": "com.example.kitapca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650541121777-qcp7en4evpckpcagjrajnbg5mh57h6lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNtbZlf6PFw6TeicbyVdQIhwAP6qtGA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650541121777-qcp7en4evpckpcagjrajnbg5mh57h6lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
